@@ -1,3 +1,4 @@
+
 # Encryptor - Challenger T7 ONE
 
 - This project was created as the final challenge of the basic module of One Next Education course, by Alura and Oracle.
@@ -67,3 +68,9 @@ to encrypt, the site changes the vowels for some sequences of cosoants like:
 3. Commit your changes (git commit -m "my changes")
 4. Send your changes to your GitHub repository (git push origin my-branch)
 5. Open a Pull Request
+
+<div>
+    <p>
+        <img src="assets/Decodificador de texto.png" height="700" tittle="site"> 
+    </p>
+</div>
